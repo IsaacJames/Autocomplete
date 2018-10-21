@@ -1,4 +1,4 @@
-###### This program was set as coursework for a first year partnered programming projects module. The code was written in my first year of study in February 2018.
+###### This program was set as coursework for a partnered programming projects module. The code was written in my first year of university study in February 2018.
 
 # autocomplete
 
